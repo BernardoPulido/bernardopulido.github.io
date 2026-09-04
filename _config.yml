@@ -2,7 +2,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Bernardo Pulido-Gaytan / Site Title"
+title                    : "Bernardo Pulido-Gaytan"
 title_separator          : "-"
 name                     : &name "Bernardo Pulido-Gaytan"
 description              : &description "Bernardo Pulido-Gaytan's academic website"   
@@ -26,18 +26,10 @@ author:
   email            : "luisbernardo.pulidogaytan@ncirl.ie" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=NmWs9JsAAAAJ"
+  linkedin         : "https://www.linkedin.com/in/bernardo-pulido/"
+  orcid            : "https://orcid.org/0000-0002-7384-7670"
+  researchgate     : "https://www.researchgate.net/profile/Luis-Pulido-Gaytan"
 
 
   # Repositories and software development
