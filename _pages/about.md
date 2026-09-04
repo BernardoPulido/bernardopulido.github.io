@@ -14,3 +14,5 @@ My research focuses on the design of privacy-preserving machine learning models 
 I am also interested in other areas of privacy-preserving computing, including differential privacy, federated learning and unlearning, as well as high-performance computing (HPC) to support computationally intensive privacy-preserving AI.
 
 If you'd like to collaborate, feel free to get in touch.
+
+luisbernardo[dot]pulidogaytan[at]ncirl[dot]ie
