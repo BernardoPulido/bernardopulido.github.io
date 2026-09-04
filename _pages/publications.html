@@ -9,8 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<!--{% include base_path %}-->
-
 <h2>Journals</h2><hr />
 
 - **B. Pulido-Gaytan**, A. Tchernykh. Self-Learning Activation Functions to Increase Accuracy of Privacy-Preserving Convolutional Neural Networks with Homomorphic Encryption. PLoS ONE 19(7): e0306420 (2024). https://doi.org/10.1371/journal.pone.0306420
@@ -32,39 +30,3 @@ author_profile: true
 * N. Vershkov, M. Babenko, A. Tchernykh, B. Pulido-Gaytan, J. M. Cortes-Mendoza, V. Kuchukova, N. Kuchukov. Optimization of Neural Network Training for Image Recognition Based on Trigonometric Polynomial Approximation. Program Comput Soft 47, 830–838 (2021). https://doi.org/10.1134/S0361768821080272
 
 * M. Babenko, A. Nazarova, A. Tchernykh, B. Pulido-Gaytan, J. M. Cortes-Mendoza, I. Vashchenko. Algorithm for Constructing Modular Projections for Correcting Multiple Errors Based on a Redundant Residue Number System Using Maximum Likelihood Decoding. Program Comput Soft 47, 839–848 (2021). https://doi.org/10.1134/S0361768821080089
-
-
-{% comment %}
-<!-- New style rendering if publication categories are defined -->
-<!-- {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-{% endcomment %}
-
--->
-<style>
-.page__content ul {
-  list-style-type: disc !important;
-  padding-left: 2em !important;
-}
-
-.page__content li {
-  display: list-item !important;
-}
-</style>
