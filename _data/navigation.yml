@@ -24,7 +24,7 @@ main:
     url: /services/
 
   - title: "Contact"
-    url: /cv-json/
+    url: /contact/
     
   # - title: "CV"
   #   url: /cv-json/
