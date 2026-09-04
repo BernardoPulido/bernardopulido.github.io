@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate at the Cloud Competency Centre (CCC), National College of Ireland. I got my Ph.D. in Computer Science from CICESE Research Center in 2024, where I was supervised by Prof. Dr. [Andrey Tchernykh](https://www.cicese.edu.mx/cicese3/investigacion/personal_academico/1387). Prior to this, I obtained my M.Sc. in Computer Science from CICESE in 2019 and my B.Sc. in Computer Science from the Instituto Politécnico Nacional (IPN) in 2017.
+I am a Postdoctoral Research Associate at the Cloud Competency Centre (CCC), National College of Ireland. I got my Ph.D. in Computer Science from CICESE Research Center in 2024, where I was supervised by Prof. Dr. [Andrey Tchernykh](http://usuario.cicese.mx/~chernykh/). Prior to this, I obtained my M.Sc. in Computer Science from CICESE in 2019 and my B.Sc. in Computer Science from the Instituto Politécnico Nacional (IPN) in 2017.
 
 My research focuses on the design of privacy-preserving machine learning models in cloud environments for classifying encrypted information using lattice-based Homomorphic Encryption (HE) cryptosystems. The homomorphic processing of machine learning models, such as neural networks, requires operations not supported by HE, so a main topic in the field is to find cryptographically compatible replacement non-linear functions to operate over ciphertexts. 
 
