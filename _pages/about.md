@@ -16,3 +16,13 @@ I am also interested in other areas of privacy-preserving computing, including d
 If you'd like to collaborate, feel free to get in touch.
 
 luisbernardo[dot]pulidogaytan[at]ncirl[dot]ie
+
+
+
+<h2>Media Coverage</h2><hr />
+
+<ul style="list-style-type: disc; padding-left: 2em;">
+
+  <li><strong>March 2025</strong> — Featured in <em>Silicon Republic</em>: <a href="https://www.siliconrepublic.com/innovation/nci-research-data-privacy-ai-quantum-homomorphic-encryption">“This researcher is developing data-privacy tools for the quantum age”</a>.</li>
+
+</ul>
