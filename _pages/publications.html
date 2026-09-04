@@ -9,12 +9,13 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% include base_path %}
 
 
 
-* **B. Pulido-Gaytan**, A. Tchernykh. Self-Learning Activation Functions to Increase Accuracy of Privacy-Preserving Convolutional Neural Networks with Homomorphic Encryption. PLoS ONE 19(7): e0306420 (2024). https://doi.org/10.1371/journal.pone.0306420}
+* **B. Pulido-Gaytan**, A. Tchernykh. Self-Learning Activation Functions to Increase Accuracy of Privacy-Preserving Convolutional Neural Networks with Homomorphic Encryption. PLoS ONE 19(7): e0306420 (2024). https://doi.org/10.1371/journal.pone.0306420
 
-* \textbf{B. Pulido-Gaytan}, A. Tchernykh, F. Leprévost, P. Bouvry, A. Goldman. Towards Understanding Efficient Privacy-Preserving Homomorphic Comparison. IEEE Access. 11, 102189-102206 (2023). https://doi.org/10.1109/ACCESS.2023.3315655}
+* \textbf{B. Pulido-Gaytan}, A. Tchernykh, F. Leprévost, P. Bouvry, A. Goldman. Towards Understanding Efficient Privacy-Preserving Homomorphic Comparison. IEEE Access. 11, 102189-102206 (2023). https://doi.org/10.1109/ACCESS.2023.3315655
 
 * M. Babenko, E. Golimblevskaia, A. Tchernykh, E. Shiriaev, T. Ermakova, \textbf{B. Pulido-Gaytan}, G. Valuev, A. Avetisyan, L. Gagloeva. A Comparative Study of Secure Outsourced Matrix Multiplication Based on Homomorphic Encryption. Big Data Cogn. Comput. 7(2), 84 (2023). https://doi.org/10.3390/bdcc7020084}
 
@@ -34,10 +35,8 @@ author_profile: true
 
 
 
-{% include base_path %}
-
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -58,4 +57,4 @@ author_profile: true
 {% endif %}
 
 
-
+-->
