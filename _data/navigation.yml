@@ -19,6 +19,9 @@ main:
     
   - title: "Projects"
     url: /projects/
+
+  - title: "Research Visits"
+    url: /visits/
     
   - title: "Academic Service"
     url: /services/
